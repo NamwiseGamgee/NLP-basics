@@ -1,0 +1,2 @@
+First file with a+ opening and first linewrite something with r and write permissionThis is an added line because i used a+ mode
+this is a real new line, on the next line
